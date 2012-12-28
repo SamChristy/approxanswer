@@ -1,0 +1,8 @@
+.que.approxanswer .answer {
+    padding: 0.3em;
+    width: auto;
+    display: inline;
+}
+.que.approxanswer .answer input {
+    width: 80%;
+}
