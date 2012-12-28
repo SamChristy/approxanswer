@@ -4,11 +4,11 @@ Approximate Answer Type
 ### Explanation ###
 This is a question type plugin for Moodle, which was created to improve upon the Short Answer 
 question type. Moodle is a popular open source Learning Management System; for more information, 
-please visit the project's website.
+please visit the [project's website](https://moodle.org/).
 
 This question type is similar to the Short Answer question type, except that the user's answer is 
-matched against the correct answer, or answers, phonetically (with a small margin for error, 
-proportional to the word’s length) as opposed to exactly. This question type also displays the 
+matched against the correct answer, or answers, *phonetically* (with a small margin for error, 
+proportional to the word’s length) as opposed to *exactly*. This question type also displays the 
 matching answer in the feedback for questions that were answered correctly, as this makes more 
 sense.
 
@@ -20,3 +20,8 @@ downloaded the plugin, simply drop it into Moodle’s ‘/question/type’ direc
 You may provide as many correct answers as you wish. The first matching answer will be used to 
 determine the user's score and feedback. Please note that the algorithms used by this module are 
 English-centric and the answers are automatically transliterated to the Latin character set.
+
+##### License #####
+The code is licensed under the [GNU GPL v3.0](http://www.gnu.org/licenses/gpl-3.0.html).
+
+©Copyright Sam Christy 2012
