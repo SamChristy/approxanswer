@@ -21,6 +21,9 @@ You may provide as many correct answers as you wish. The first matching answer w
 determine the user's score and feedback. Please note that the algorithms used by this module are 
 English-centric and the answers are automatically transliterated to the Latin character set.
 
+### Versions ###
+Currently only version 2.2 of Moodle is supported.
+
 ##### License #####
 The code is licensed under the [GNU GPL v3.0](http://www.gnu.org/licenses/gpl-3.0.html).
 
