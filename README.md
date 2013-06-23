@@ -22,7 +22,14 @@ determine the user's score and feedback. Please note that the algorithms used by
 English-centric and the answers are automatically transliterated to the Latin character set.
 
 ### Versions ###
-Currently only version 2.2 of Moodle is supported.
+This plugin has been tested for compatibility with Moodle versions 2.2 and 2.4, 2.3 should also
+work but has not been specifically tested.
+
+#### Coming Soon ####
+The following features are planned for future releases:
+- XML export and import options
+- Unit test suite
+- Optional mark scaling based on accuracy of spelling
 
 ##### License #####
 The code is licensed under the [GNU GPL v3.0](http://www.gnu.org/licenses/gpl-3.0.html).
